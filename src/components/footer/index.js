@@ -3,7 +3,7 @@ import styled from './style';
 
 const Footer = () => (
 	<styled.FooterHolder>
-		<h1>tetst</h1>
+		<h1>WOW NICE</h1>
 	</styled.FooterHolder>
 );
 
